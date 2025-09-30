@@ -29,4 +29,24 @@ To analyze customer satisfaction data for Dano Airlines and identify key areas c
 
 ![DANO_AIRLINE_DASHBOARD](https://github.com/user-attachments/assets/b7c30727-ec9b-4c83-84ce-dc89b6833f30)
 
+## 🔍 Project Insights
+- Passengers traveling for **personal reasons** report much higher dissatisfaction than business travelers.
+- **Young passengers** (under 30) are the least satisfied across most categories.
+- **Economy Class** is a major pain point with over 80% dissatisfaction — likely driven by poor comfort and time management.
+- Key dissatisfaction drivers are operational and service-related (delays, food, cleanliness).
+
+---
+
+## ✅ Final Conclusion & Recommendations
+To boost satisfaction levels from 43.45% to 60%+ in the short term, Dano Airlines should prioritize:
+
+1. **Improve Departure & Arrival Timeliness**
+   - Invest in operational efficiency and real-time flight updates.
+2. **Revamp Food and Drink Offerings**
+   - Introduce better meal quality and variety across all classes.
+3. **Enhance Cleanliness & Comfort in Economy**
+   - Quick wins through deep-cleaning routines and seat upgrades.
+
+🎯 **Targeted Interventions:** Focus improvements on Economy passengers, especially younger and personal-travel customers.
+
 
