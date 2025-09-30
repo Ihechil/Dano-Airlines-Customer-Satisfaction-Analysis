@@ -27,7 +27,7 @@ To analyze customer satisfaction data for Dano Airlines and identify key areas c
 
 ##  Dashboard
 
-![DANO_AIRLINE_DASHBOARD](https://github.com/user-attachments/assets/b7c30727-ec9b-4c83-84ce-dc89b6833f30)
+![](https://github.com/Ihechil/Dano-Airlines-Customer-Satisfaction-Analysis/blob/main/DANO_AIRLINE_DASHBOARD.jpg)
 
 ## 🔍 Project Insights
 - Passengers traveling for **personal reasons** report much higher dissatisfaction than business travelers.
