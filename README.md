@@ -1,2 +1,4 @@
-# Dano-Airlines-Customer-Satisfaction-Analysis
-A data analysis project for Dano Airlines aimed at identifying key drivers of customer dissatisfaction using passenger survey data. Includes data cleaning, KPI tracking, visual dashboard (Power BI), and actionable insights to improve satisfaction rates.
+# ✈️ Dano Airlines Customer Satisfaction Analysis
+
+## 📌 Project Objective
+To analyze customer satisfaction data for Dano Airlines and identify key areas contributing to dissatisfaction. The ultimate goal is to provide actionable insights and a visual dashboard that helps the leadership team boost the overall satisfaction rate, which has dipped to 43.45% — the lowest ever recorded.
