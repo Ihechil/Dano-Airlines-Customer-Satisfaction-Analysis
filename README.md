@@ -27,5 +27,6 @@ To analyze customer satisfaction data for Dano Airlines and identify key areas c
 
 ##  Dashboard
 
-![DANO_AIRLINE_DASHBOARD](https://github.com/user-attachments/assets/c383fbf3-0c02-4371-96c8-d2eda14e3c01)
+![DANO_AIRLINE_DASHBOARD](https://github.com/user-attachments/assets/b7c30727-ec9b-4c83-84ce-dc89b6833f30)
+
 
