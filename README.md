@@ -15,7 +15,7 @@ To analyze customer satisfaction data for Dano Airlines and identify key areas c
    - Cabin Class
 4. What are the top three improvement priorities?
 
--Dashboard Interaction <a href="https://github.com/Ihechil/Dano-Airlines-Customer-Satisfaction-Analysis/blob/main/DANO_AIRLINE_DASHBOARD.jpg">View Dashboard</a>
+   -Dashboard Interaction <a href="https://github.com/Ihechil/Dano-Airlines-Customer-Satisfaction-Analysis/blob/main/DANO_AIRLINE_DASHBOARD.jpg">View Dashboard</a>
 
 ## ⚙️ Process
 1. **Data Cleaning & Transformation (Power Query)   **
